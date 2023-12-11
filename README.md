@@ -78,3 +78,7 @@ may want to experiment with some of the options below.
    comes from the .eval() method of the tf.keras Model object, refer to
    this [github issue](https://github.com/tensorflow/recommenders/issues/391)
    in the official tensorflow-recommenders repo for more info.
+
+## Legal
+Copyright 2023 Expedia, Inc.  
+SPDX-License-Identifier: Apache-2.0
